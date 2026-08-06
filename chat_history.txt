@@ -1,0 +1,199 @@
+
+👤 You [11:53 AM]:
+What is Deep Learning?
+
+
+🤖 Bot [11:53 AM]:
+Deep Learning is a subset of Machine Learning that uses neural networks with multiple layers.
+
+
+
+👤 You [11:53 AM]:
+What is Python?
+
+
+🤖 Bot [11:53 AM]:
+Python is a high-level programming language widely used for AI, web development, and automation.
+
+
+
+👤 You [11:53 AM]:
+What is Machine Learning?
+
+
+🤖 Bot [11:53 AM]:
+Machine Learning is a branch of AI that enables computers to learn from data.
+
+
+
+👤 You [11:54 AM]:
+What is ChatGPT?
+
+
+🤖 Bot [11:54 AM]:
+ChatGPT is an AI chatbot developed by OpenAI.
+
+
+
+👤 You [11:54 AM]:
+What is Data Science?
+
+
+🤖 Bot [11:54 AM]:
+Data Science is the process of collecting, analyzing, and interpreting data to gain useful insights.
+
+
+
+👤 You [11:54 AM]:
+What is Artificial Intelligence?
+
+
+🤖 Bot [11:54 AM]:
+Artificial Intelligence (AI) is the simulation of human intelligence by machines.
+
+
+
+👤 You [11:54 AM]:
+What is Machine Learning?
+
+
+🤖 Bot [11:54 AM]:
+Machine Learning is a branch of AI that enables computers to learn from data.
+
+
+
+👤 You [11:54 AM]:
+What is ChatGPT?
+
+
+🤖 Bot [11:54 AM]:
+ChatGPT is an AI chatbot developed by OpenAI.
+
+
+
+👤 You [11:54 AM]:
+What is Python?
+
+
+🤖 Bot [11:54 AM]:
+Python is a high-level programming language widely used for AI, web development, and automation.
+
+
+
+👤 You [11:54 AM]:
+What is Deep Learning?
+
+
+🤖 Bot [11:54 AM]:
+Deep Learning is a subset of Machine Learning that uses neural networks with multiple layers.
+
+
+👤 You [12:02 PM]:
+What is Artificial Intelligence?
+
+
+🤖 Bot [12:02 PM]
+Confidence: 100.0%
+Artificial Intelligence (AI) is the simulation of human intelligence by machines.
+
+
+👤 You [12:02 PM]:
+What is Machine Learning?
+
+
+🤖 Bot [12:02 PM]
+Confidence: 100.0%
+Machine Learning is a branch of AI that enables computers to learn from data.
+
+
+👤 You [12:03 PM]:
+What is Python?
+
+
+🤖 Bot [12:03 PM]
+Confidence: 100.0%
+Python is a high-level programming language widely used for AI, web development, and automation.
+
+
+👤 You [12:03 PM]:
+What is ChatGPT?
+
+
+🤖 Bot [12:03 PM]
+Confidence: 100.0%
+ChatGPT is an AI chatbot developed by OpenAI.
+
+
+👤 You [12:03 PM]:
+What is Data Science?
+
+
+🤖 Bot [12:03 PM]
+Confidence: 100.0%
+Data Science is the process of collecting, analyzing, and interpreting data to gain useful insights.
+
+
+👤 You [12:03 PM]:
+What is Deep Learning?
+
+
+🤖 Bot [12:03 PM]
+Confidence: 100.0%
+Deep Learning is a subset of Machine Learning that uses neural networks with multiple layers.
+
+
+👤 You [12:09 PM]:
+What is Python?
+
+
+🤖 Bot [12:09 PM]
+Confidence: 100.0%
+Python is a popular programming language.
+
+
+👤 You [12:09 PM]:
+ai
+
+
+📚 AI FAQs [12:09 PM]:
+
+• What is Artificial Intelligence?
+• AI Question 1?
+• AI Question 6?
+• AI Question 11?
+• AI Question 16?
+• AI Question 21?
+• AI Question 26?
+• AI Question 31?
+• AI Question 36?
+• AI Question 41?
+• AI Question 46?
+• AI Question 51?
+• AI Question 56?
+• AI Question 61?
+• AI Question 66?
+• AI Question 71?
+• AI Question 76?
+• AI Question 81?
+• AI Question 86?
+• AI Question 91?
+
+
+👤 You [12:18 PM]:
+What is Python?
+
+
+🤖 Bot [12:18 PM]
+Confidence: 100.0%
+Python is a high-level programming language widely used for AI, web development, and automation.
+
+
+👤 You [12:18 PM]:
+What is Machine Learning?
+
+
+🤖 Bot [12:18 PM]
+Confidence: 100.0%
+Machine Learning is a branch of AI that allows computers to learn from data.
+
+
